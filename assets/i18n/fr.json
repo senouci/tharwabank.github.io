@@ -1,0 +1,197 @@
+{
+    "FORMS": {
+        "ADDRESSPLACEHOLDER": "Adresse",
+        "CODEPLACEHOLDER": "Code",
+        "EMAILPLACEHOLDER": "Email",
+        "FIRSTNAMEPLACEHOLDER": "Prénom",
+        "FILTERPLACEHOLDER": "Filtre",
+        "JUSTIFICATIONPLACEHOLDER": "Justification",
+        "NAMEPLACEHOLDER": "Nom",
+        "OBJECTPLACEHOLDER": "Object",
+        "PASSWORDPLACEHOLDER": "Mot de Passe",
+        "OLDPASSWORDPLACEHOLDER": "L'ancien Mot de Passe",
+        "NEWPASSWORDPLACEHOLDER": "Le nouveau Mot de Passe",
+        "CONFPASSWORDPLACEHOLDER": "Mot de Passe de Confirmation",
+        "PHONEPLACEHOLDER": "Tél",
+        "SOCIALREASONPLACEHOLDER": "Raison Sociale",
+
+        "ADDRESSHINT": "L'adresse",
+        "CONFPASSWORDHINT": "Confirmation du mot de passe",
+        "FIRSTNAMEHINT": "Le prénom",
+        "EMAILHINT": "L'email",
+        "NAMEHINT": "Le nom",
+        "NEWPASSWORDHINT": "Le nouveau mot de passe",
+        "OLDPASSWORDHINT": "L'ancien' mot de passe",
+        "PASSWORDHINT": "Le mot de passe",
+        "PHONEHINT": "Le numero de téléphone",
+        "SOCIALREASONHINT": "La raison sociale",
+
+        "ADDRESSUNVALID": "Adresse non valide",
+        "FIRSTNAMEUNVALID": "Prénom non valide",
+        "EMAILUNVALID": "Email non valide",
+        "NAMEUNVALID": "Nom non valide",
+        "PASSWORDUNVALID": "Mot de Passe non valide",
+        "CODEUNVALID": "Code non valide",
+        "PHONEUNVALID": "Numéro de téléphone non valide",
+        "SOCIALREASONUNVALID": "Raison sociale non valide",
+
+        "ADDRESSREQUIRED": "L'adresse est <strong>obligatoire</strong>",
+        "FIRSTNAMEREQUIRED": "Le prénom est <strong>obligatoire</strong>",
+        "CODEREQUIRED": "Code is <strong>required</strong>",
+        "EMAILREQUIRED": "L'email est <strong>obligatoire</strong>",
+        "NAMEREQUIRED": "Le nom est <strong>obligatoire</strong>",
+        "PASSWORDREQUIRED": "Le mot de passe est <strong>obligatoire</strong>",
+        "NEWPASSWORDREQUIRED": "L'ancien mot de passe est <strong>obligatoire</strong>",
+        "CONFPASSWORDREQUIRED": "La Confirmation du mot de passe est <strong>obligatoire</strong>",
+        "OLDPASSWORDREQUIRED": "Le nouveau mot de passe est <strong>obligatoire</strong>",
+        "PHONEQUIRED": "Le numéro de téléphone est <strong>obligatoire</strong>",
+        "SOCIALREASONREQUIRED": "La raison sociale est <strong>obligatoire</strong>",
+
+        "NOIMG": "Aucune image selectionnée",
+        "PASSWORDBLANK": "Laissez-le vide si vous ne voulez pas changer votre mot de passe.",
+        "PASSWORDSHORT": "Le mot de passe est très court",
+        "SELECTIMG": "Choisissez une image"
+    },
+
+    "GENERAL": {
+        "ACCOUNTCODE": "N° Compte",
+        "ACCOUNTCODER": "N° Compte Destinataire",
+        "ACCOUNTCODES": "N° Compte Emmiteur",
+        "ACCOUNTTYPE": "Type Compte",
+        "ADDRESS": "Adresse",
+        "AMOUNT": "Montant",
+        "BANK": "Banque",
+        "CODE": "Code",
+        "DATE": "Date",
+        "EMAIL": "Email",
+        "FIRSTNAME": "Prénom",
+        "PHOTO": "Photo",
+        "FULLNAME": "Nom",
+        "FUNCTION": "Fonction",
+        "ID": "ID",
+        "NAME": "Nom",
+        "PASSWORD": "Mot de passe",
+        "PHONE": "Tél",
+        "SOCIALREASON": "Raison sociale",
+        "STATUS": "Status",
+        "TOTAL": "Total",
+
+        "ACTION": "Actions",
+        "CONSULT": "Consulter",
+
+        "ADDBTN": "Ajouter",
+        "BACKBTN": "Précédant",
+        "BLOCKBTN": "Bloquer",
+        "CANCELBTN": "Quitter",
+        "CHANGEPDWBTN": "Changer le mot de passe",
+        "CONTINUEBTN": "Continuer",
+        "DEBLOCKBTN": "Débloquer",
+        "EDITBTN": "Modifier",
+        "EDITPROFILBTN": "Modifier le profile",
+        "NEXTBTN": "Suivant",
+        "REJECTBTN": "Refuser",
+        "RESETBTN": "Réinitialiser",
+        "VALIDATEBTN": "Valider", 
+
+        "NO": "NON",
+        "SMS":"SMS",
+        "YES": "OUI",
+        "EMPTYTAB": "La table est vide"
+    },
+
+    "LOGIN": {
+        "DIALOGTITLE": "Code de Vérification",
+        "LOGINBTN": "Connecter",
+        "MSG1": "Maintenant, Introduisez le code reçu pour continuer",
+        "MSG2": "Pour accéder à votre compte Tharwa, Choisissez comment recevoir le code",
+        "THRDESC": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.",
+        "THRNAME": "Banque Tharwa",
+        "ONTHERCODE": "Envoyer un autre code",
+        "PASSWORDFORGOTTEN": "Mot de passe oublié?"
+    },
+
+    "LOGOUT":{
+        "LOGOUTMSG": "Voulez-vous vraiment quitter votre session ?"
+    },
+
+    "BANKER": {
+        "ACCOUNTS": {
+            "DIALOGTITLE": "Validation des comptes",
+            "TITLE": "Comptes en attente de validation"
+        },
+
+        "COMMISSIONS": {
+            "TITLE": "Liste des Commissions"
+        },
+
+        "BLOCKING": {
+          "TITLE": "Bloquer/Débloquer Comptes",
+          "BLOCKTITLE": "Bloquer un compte",
+          "DEBLOCKTITLE": "Débloquer un compte"
+        },
+
+        "TRANSFER": {
+          "TITLE": "Validation des Virements (interne ou interne vers externe)",
+          "JUSTIFDIALOG": "JUSTIFICATION"
+        },
+
+        "TRANSFERORDER": {
+          "TITLE": "Validation des ordres de virements",
+          "DIAGTITLE": "Liste des Virements"
+        },
+
+        "TRANSFEREXTERN": {
+          "TITLE": "Virements Externes"
+        }
+    },
+
+    "MANAGER": {
+        "BANKERS": {
+            "DELETEMSG": "Voulez-vous vraiment supprimer ce banquier ?",
+            "TITLE": "Liste des banquiers",
+            "GENERALINFOS": "Informations Générales",
+            "CONTACTINFOS": "Informations de contact",
+            "PROFILE": "Profile"
+        },
+
+        "BANKS": {
+            "ADDBANKDIAG": "Ajouter une banque",
+            "DELETEMSG": "Voulez-vous vraiment supprimer cette banque ?",
+            "EDITBANKDIAG": "Modifier banque",
+            "TITLE": "Liste des banques"
+        }
+    },
+
+    "PROFILE": {
+        "CHANGEPHOTO": "Changer votre photo de profile",
+        "PDWTITLE": "Changer le mot de passe",
+        "DIALOGTITLE": "Modification du profile",
+        "TITLE": "Profile"
+    },
+
+    "TYPEACCOUNT": {
+        "CURRENT" : "Courant",
+        "SAVING" : "Epargne",
+        "CUREURO" : "Courant euro",
+        "CURDOL" : "Courant Dollar",
+        "UNKOWN" :  "Inconnu"
+    },
+
+    "STATUSACCOUNT": {
+        "WAITING": "En attente",
+        "VALID": "Valide",
+        "BLOCKED": "Bloqué",
+        "DELETED": "Supprimé",
+        "UNKOWN" :  "Inconnu"
+    },
+
+    "MANAGERNAV": {
+        "DASHBOARD": "Dashboard",
+        "COMMISSION": "Commissions",
+        "BANKS": "Banques",
+        "BANKERS": "Banquiers",
+        "PROFILE": "Profile",
+        "LOGOUT": "Déconnecter"
+    }
+
+}

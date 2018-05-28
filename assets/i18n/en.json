@@ -1,0 +1,197 @@
+{
+    "FORMS": {
+        "ADDRESSPLACEHOLDER": "Address",
+        "CODEPLACEHOLDER": "Code",
+        "EMAILPLACEHOLDER": "Email",
+        "FIRSTNAMEPLACEHOLDER": "First Name",
+        "FILTERPLACEHOLDER": "Filter",
+        "JUSTIFICATIONPLACEHOLDER": "Justification",
+        "NAMEPLACEHOLDER": "Name",
+        "OBJECTPLACEHOLDER": "Object",
+        "PASSWORDPLACEHOLDER": "Password",
+        "OLDPASSWORDPLACEHOLDER": "Old Password",
+        "NEWPASSWORDPLACEHOLDER": "New Password",
+        "CONFPASSWORDPLACEHOLDER": "Confirmation Password",
+        "PHONEPLACEHOLDER": "Phone",
+        "SOCIALREASONPLACEHOLDER": "Social Reason",
+
+        "ADDRESSHINT": "The address",
+        "CONFPASSWORDHINT": "Password Confirmation",
+        "CODEHINT": "The first name",
+        "FIRSTNAMEHINT": "The first name",
+        "EMAILHINT": "The email address",
+        "NAMEHINT": "The name",
+        "NEWPASSWORDHINT": "New password",
+        "OLDPASSWORDHINT": "Old password",
+        "PASSWORDHINT": "The password",
+        "PHONEHINT": "The phone number",
+        "SOCIALREASONHINT": "The Social Reason",
+
+        "ADDRESSUNVALID": "Unvalid address",
+        "FIRSTNAMEUNVALID": "Unvalid first name",
+        "EMAILUNVALID": "Unvalid email address",
+        "NAMEUNVALID": "Unvalid name",
+        "PASSWORDUNVALID": "Unvalid password",
+        "CODEUNVALID": "Unvalid code",
+        "PHONEUNVALID": "Unvalid phone number",
+        "SOCIALREASONUNVALID": "Unvalid The Social Reason",
+
+        "ADDRESSREQUIRED": "Address is <strong>required</strong>",
+        "FIRSTNAMEREQUIRED": "First Name is <strong>required</strong>",
+        "CODEREQUIRED": "Code is <strong>required</strong>",
+        "EMAILREQUIRED": "Email is <strong>required</strong>",
+        "NAMEREQUIRED": "Name is <strong>required</strong>",
+        "PASSWORDREQUIRED": "Password is <strong>required</strong>",
+        "NEWPASSWORDREQUIRED": "New Password is <strong>required</strong>",
+        "CONFPASSWORDREQUIRED": "Confirmation Password is <strong>required</strong>",
+        "OLDPASSWORDREQUIRED": "Old Password is <strong>required</strong>",
+        "PHONEQUIRED": "Phone is <strong>required</strong>",
+        "SOCIALREASONREQUIRED": "Social Reason is <strong>required</strong>",
+
+        "NOIMG": "No image is selected",
+        "PASSWORDBLANK": "Keep it blank if you don't change your password",
+        "PASSWORDSHORT": "Password too short",
+        "SELECTIMG": "Select Image"
+    },
+
+    "GENERAL": {
+        "ACCOUNTCODE": "Account Code",
+        "ACCOUNTCODER": "Receiver Account Code",
+        "ACCOUNTCODES": "Sender Account Code",
+        "ACCOUNTTYPE": "Account Type",
+        "ADDRESS": "Address",
+        "AMOUNT": "Amount",
+        "BANK": "Bank",
+        "CODE": "Code",
+        "DATE": "Date",
+        "EMAIL": "Email",
+        "FIRSTNAME": "First Name",
+        "PHOTO": "Photo",
+        "FULLNAME": "Fullname",
+        "FUNCTION": "Function",
+        "ID": "ID",
+        "NAME": "Name",
+        "PASSWORD": "Password",
+        "PHONE": "Phone",
+        "SOCIALREASON": "Social Reason",
+        "STATUS": "Status",
+        "TOTAL": "Total",
+
+        "ACTION": "Actions",
+        "CONSULT": "Consult",
+
+        "ADDBTN": "Add",
+        "BACKBTN": "Back",
+        "BLOCKBTN": "Block",
+        "CANCELBTN": "Cancel",
+        "CHANGEPDWBTN": "Change your password",
+        "CONTINUEBTN": "Continue",
+        "DEBLOCKBTN": "Deblock",
+        "EDITBTN": "Edit",
+        "EDITPROFILBTN": "Edit your profil",
+        "NEXTBTN": "Next",
+        "REJECTBTN": "Reject",
+        "RESETBTN": "Reset",
+        "VALIDATEBTN": "Validate",
+
+        "NO": "NO",
+        "SMS":"SMS",
+        "YES": "YES",
+        "EMPTYTAB": "Empty Table"
+    },
+
+    "LOGIN": {
+        "DIALOGTITLE": "Verification Code",
+        "LOGINBTN": "Login",
+        "MSG1": "Now Enter the code that you recieved to proceed",
+        "MSG2": "To sign in to your Tharwa account, pleaze choose how to get code",
+        "THRDESC": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.",
+        "THRNAME": "Tharwa Bank",
+        "ONTHERCODE": "Send an other code",
+        "PASSWORDFORGOTTEN": "Password forgotten?"
+    },
+
+    "LOGOUT":{
+        "LOGOUTMSG": "Do you really want to logout?"
+    },
+
+    "BANKER": {
+        "ACCOUNTS": {
+            "DIALOGTITLE": "Account Validation",
+            "TITLE": "Unvalidate Accounts"
+        },
+
+        "COMMISSIONS": {
+            "TITLE": "Commissions List"
+        },
+
+        "BLOCKING": {
+            "TITLE": "Blocking/Deblocking Accounts",
+            "BLOCKTITLE": "Blocking acount",
+            "DEBLOCKTITLE": "Deblocking acount"
+        },
+
+        "TRANSFER": {
+          "TITLE": "Transfer (intern or intern to extern) Validation",
+          "JUSTIFDIALOG": "JUSTIFICATION"
+        },
+
+        "TRANSFERORDER": {
+          "TITLE": "Transfer Order Validation",
+          "DIAGTITLE": "List Of Transfer"
+        },
+
+        "TRANSFEREXTERN": {
+          "TITLE": "Extern Transfers"
+        }
+    },
+
+    "MANAGER": {
+        "BANKERS": {
+            "DELETEMSG": "Do you really want to delete this banker?",
+            "TITLE": "Bankers List",
+            "GENERALINFOS": "General information",
+            "CONTACTINFOS": "Contact information",
+            "PROFILE": "Profile"
+        },
+
+        "BANKS": {
+            "ADDBANKDIAG": "Add a Bank",
+            "DELETEMSG": "Do you really want to delete this bank?",
+            "EDITBANKDIAG": "Edit a Bank",
+            "TITLE": "Banks List"
+        }
+    },
+
+    "PROFILE": {
+        "CHANGEPHOTO": "Change your profile photo",
+        "PDWTITLE": "Change your password",
+        "DIALOGTITLE": "Edit Profile",
+        "TITLE": "Profile"
+    },
+
+    "TYPEACCOUNT": {
+        "CURRENT" : "Current",
+        "SAVING" : "Saving",
+        "CUREURO" : "Current Euro",
+        "CURDOL" : "Current Dollar",
+        "UNKOWN" :  "Unkown"
+    },
+
+    "STATUSACCOUNT": {
+        "WAITING": "Waiting",
+        "VALID": "Valid",
+        "BLOCKED": "Blocked",
+        "DELETED": "Deleted",
+        "UNKOWN" :  "Unkwon"
+    },
+
+    "MANAGERNAV": {
+        "DASHBOARD": "Dashboard",
+        "COMMISSION": "Commissions",
+        "BANKS": "Banks",
+        "BANKERS": "Bankers",
+        "PROFILE": "Profile",
+        "LOGOUT": "Logout"
+    }
+}
